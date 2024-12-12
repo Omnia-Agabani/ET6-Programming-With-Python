@@ -14,4 +14,3 @@ at Emerging Talent.
 - **Run a file with Unit Tests**:
   `$ python -m unittest -c path/to/tests/test_file.py`
 
-## test
