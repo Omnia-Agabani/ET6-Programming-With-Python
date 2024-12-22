@@ -13,4 +13,3 @@ at Emerging Talent.
     `$ python -m trace -c path/to/file.py`
 - **Run a file with Unit Tests**:
   `$ python -m unittest -c path/to/tests/test_file.py`
-
