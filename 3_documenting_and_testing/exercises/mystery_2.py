@@ -3,9 +3,10 @@
     
     Parameter:
     a value we want to check it's length
+    should be str or a list
     
     Return:
-    The length of the input    
+    The length of the input: int
     
     
     """
