@@ -2,7 +2,7 @@
     The function add two value from the same type
         
     Parameters:
-    2 values from the same type
+    a,b: 2 values from the same type
     
     Return:
     The summation of the 2 value

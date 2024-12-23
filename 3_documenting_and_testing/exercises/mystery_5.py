@@ -4,10 +4,11 @@ def mystery_5(a, b):
     and add the other list
     
     Parameters:
-    a and b are lists
+    a (list): need to be sort
+    b (list): the fixed list
     
     Return:
-    list
+    list: the second list with the first list sorted
     
     """
     assert type(a) is list, "a should be a list "

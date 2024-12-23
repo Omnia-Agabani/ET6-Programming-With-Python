@@ -5,7 +5,7 @@ def mystery_3(a, b):
     
 
     Parameters:
-    2 values from the same type
+    a,b: 2 values from the same type
     
     Return:
     The minimum value or the summation incase they are equal

@@ -2,7 +2,7 @@
     The function is check the length of the input
     
     Parameter:
-    a value we want to check it's length
+    a: value we want to check it's length
     should be str or a list
     
     Return:

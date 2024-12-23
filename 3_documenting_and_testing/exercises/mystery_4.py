@@ -3,7 +3,7 @@ def mystery_4(a):
     The function is bring a list count till the given number
     
 
-    Args:
+    Parameter:
         a (int): max number to count
 
     Returns:
