@@ -6,8 +6,8 @@ b: substring to search for
 
 It returns a new list containing only elements from a that include b as a substring.
     """
-    assert not isinstance(a , int), "a should be an int"
-    assert not isinstance(b , int), "b should be an int"
+    assert not isinstance(a , int), "a should not be an int"
+    assert not isinstance(b , int), "b should not be an int"
     c = []
     for d in a:
         if b in d:
