@@ -6,3 +6,4 @@ class TestAsciiCode(unittest.TestCase):
     self.assertEqual (draw_a_triangle(0),'')
   def test_int(self):
     self.assertEqual (draw_a_triangle(10),'**********\n*********\n********\n*******\n******\n*****\n****\n***\n**\n*\n')
+  
